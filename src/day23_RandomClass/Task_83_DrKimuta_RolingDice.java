@@ -2,7 +2,8 @@ package day23_RandomClass;
 
 import java.util.*;
 
-import review_Session_Println_Variables.week3.yesNo;
+
+
 public class Task_83_DrKimuta_RolingDice {
 
 	public static void main(String[] args) {
